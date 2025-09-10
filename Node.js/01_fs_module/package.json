@@ -1,0 +1,12 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "this is day 1 in backend",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node first.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
